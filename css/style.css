@@ -167,7 +167,7 @@
   top: 46px;
 }
 
-/* Cartão de Produto */
+
 .product-card {
   width: 238px;
   height: 409px;
@@ -326,7 +326,7 @@
   flex-direction: column;
   row-gap: 22px;
   font-family: 'Nunito', sans-serif;
-  margin-top: 100px; /* aqui você controla a distância vertical */
+  margin-top: 100px; 
 }
 
 .caneca-texto h2 {
@@ -350,7 +350,7 @@
 
 .container2 {
   display: flex;
-  flex-direction: row; /* lado a lado: imagem à esquerda, texto à direita */
+  flex-direction: row;
   align-items: flex-start;
   justify-content: center;
   gap: 40px;
